@@ -1,4 +1,4 @@
-# Exercício CRUD intermediário do site: http://sbrecci.com/codificando/iniciante/
+# Exercício CRUD iniciante do site: http://sbrecci.com/codificando/iniciante/
 
 <hr>
 
