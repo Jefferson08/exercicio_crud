@@ -1,0 +1,17 @@
+
+th{
+	background-color: #EEE;
+}
+
+.table td{
+	vertical-align: middle;
+}
+
+#acoes{
+	width: 200px;
+	text-align: center;
+}
+
+.table img {
+	width: 20px;
+}
